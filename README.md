@@ -287,7 +287,7 @@ e. 地段。
 
 * 知乎：https://zhuanlan.zhihu.com/p/60956642
 * Github: https://github.com/facert/beijing_house_knowledge
-* 微信公众号: 
+* 微信公众号: https://mp.weixin.qq.com/s/mtLVgz-Pxnu_q1nwDjIIyQ
 * pdf 版本：关注微信公众号「程序化思维」，回复 "买房" 获取。
 
 2. 建了一个群，交流北京买房经验，如群满，加微信号 「jeeeeeffer」拉你入群。
