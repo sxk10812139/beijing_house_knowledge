@@ -12,7 +12,7 @@
 
 #### [（三）房源](#房源)
 ##### [1.  2014 - 2019 年北京房价走势](#2014 - 2019 年北京房价走势)
-##### [2. 201attachments/images/02 月北京二手房成交详情](#201attachments/images/02 月北京二手房成交详情)
+##### [2. 2019/02 月北京二手房成交详情](#2019/02 月北京二手房成交详情)
 ##### [3. 各区平均房价](#各区平均房价)
 ##### [4. 房价调控](#房价调控)
 
@@ -37,14 +37,15 @@
 #### [最后](#最后)
 
 
-####<a herf="说明">（一）说明attachments/images/a>
+#### <a herf="说明">（一）说明</a>
 本文总结了北京买房的一些基础知识与经验，由于市场和房贷政策随时间会发生变化，并不保证所有信息的真实有效性，也不构成任何投资建议。
 
-####<a herf="各区规划">（二）各区规划 attachments/images/a>
-##### <a herf="北京行政区划分">1. 北京行政区划分attachments/images/a>
+#### <a herf="各区规划">（二）各区规划 </a>
+
+##### <a herf="北京行政区划分">1. 北京行政区划分</a>
 ![Alt text](attachments/images/1553932288675.png)
 
-[《北京城市总体规划（2016年—2035年）》](httpsattachments/images//mp.weixin.qq.coattachments/images/attachments/images/1wfqDWeVJ_5DYtj0QUUyjw)，城六区指北京市东城区、西城区、朝阳区、海淀区、丰台区和石景山区。
+[《北京城市总体规划（2016年—2035年）》](https://mp.weixin.qq.com/s/1wfqDWeVJ_5DYtj0QUUyjw)，城六区指北京市东城区、西城区、朝阳区、海淀区、丰台区和石景山区。
 
 （1）“一核一主一副、两轴多点一区” 
 
@@ -69,42 +70,42 @@
 ![Alt text](attachments/images/1553934033215.png)
 
 
-##### <a href="东城区和西城区将合并编制核心区控制性详细规划">2.  东城区和西城区将合并编制核心区控制性详细规划attachments/images/a>
+##### <a href="东城区和西城区将合并编制核心区控制性详细规划">2.  东城区和西城区将合并编制核心区控制性详细规划</a>
 
-##### <a href="朝阳区规划">3. 朝阳区规划attachments/images/a>
+##### <a href="朝阳区规划">3. 朝阳区规划</a>
 
 ![Alt text](attachments/images/1553932786183.png)
 
-##### <a href="海淀区规划">4. 海淀区规划attachments/images/a>
+##### <a href="海淀区规划">4. 海淀区规划</a>
 ![Alt text](attachments/images/1553932983356.png)
 
-##### <a href="丰台区规划">5. 丰台区规划attachments/images/a>
+##### <a href="丰台区规划">5. 丰台区规划</a>
 ![Alt text](attachments/images/1553933133324.png)
 
-##### <a href="昌平区规划">6. 昌平区规划attachments/images/a>
+##### <a href="昌平区规划">6. 昌平区规划</a>
 ![Alt text](attachments/images/1553933265825.png)
 
-##### <a href="亦庄规划">7. 亦庄规划attachments/images/a>
+##### <a href="亦庄规划">7. 亦庄规划</a>
 ![Alt text](attachments/images/1553933380928.png)
 
-##### <a href="通州区规划">8. 通州区规划attachments/images/a>
+##### <a href="通州区规划">8. 通州区规划</a>
 ![Alt text](attachments/images/1553933592544.png)
 
 
-#### <a href="房源">（三）房源attachments/images/a>
+#### <a href="房源">（三）房源</a>
 
 北京的一手楼盘在城六区较少，文章以二手房交易为主。
-##### <a href="2014 - 2019 年北京房价走势">1.  2014 - 2019 年北京房价走势attachments/images/a>
+##### <a href="2014 - 2019 年北京房价走势">1.  2014 - 2019 年北京房价走势</a>
 
 ![Alt text](attachments/images/1553935766925.png)
 
-##### <a href="201attachments/images/02 月北京二手房成交详情">2. 201attachments/images/02 月北京二手房成交详情attachments/images/a>
+##### <a href="2019/02 月北京二手房成交详情">2. 2019/02 月北京二手房成交详情</a>
 ![Alt text](attachments/images/1553935821805.png)
 
-##### <a href="各区平均房价">3. 各区平均房价attachments/images/a>
+##### <a href="各区平均房价">3. 各区平均房价</a>
 ![Alt text](attachments/images/1553935927076.png)
 
-##### <a href="房价调控">4. 房价调控attachments/images/a>
+##### <a href="房价调控">4. 房价调控</a>
 
 北京房价从 2017 年开始一直处于调控中，2019 年的政府工作报告也已经出来，今年房地产的主要任务是保持稳定，所以房价大涨的政策条件并不具备。
 
@@ -116,9 +117,9 @@
 
 
 
-#### <a href="购房与贷款流程">（四）购房与贷款流程attachments/images/a>
+#### <a href="购房与贷款流程">（四）购房与贷款流程</a>
 
-##### <a herf="外地人在北京买房条件及资格">1. 外地人在北京买房条件及资格 attachments/images/a>
+##### <a herf="外地人在北京买房条件及资格">1. 外地人在北京买房条件及资格 </a>
 
 * 持有有效《北京工作居住证》
 		（1）持有有效《北京工作居住证》
@@ -129,27 +130,27 @@
 	（2） 在本市没拥有住房
 	（3） 连续60个月（含）以上在本市缴纳社会保险或个人所得税
 
-##### <a href="二手房交易流程">2. 二手房交易流程attachments/images/a>
+##### <a href="二手房交易流程">2. 二手房交易流程</a>
  ![Alt text](attachments/images/1553930407082.png)
 
-##### <a href="二手房交易税费清单">3.  二手房交易税费清单attachments/images/a>
+##### <a href="二手房交易税费清单">3.  二手房交易税费清单</a>
 
 ![Alt text](attachments/images/1553929972644.png)
 
-##### <a href="首付贷款比例">4. 首付贷款比例attachments/images/a>
+##### <a href="首付贷款比例">4. 首付贷款比例</a>
  ![Alt text](attachments/images/1553930069513.png)
 
-##### <a href="月均还款额">5. 月均还款额attachments/images/a>
+##### <a href="月均还款额">5. 月均还款额</a>
 ![Alt text](attachments/images/1553930217601.png)
 
-##### <a href="特殊交易类型">6.  特殊交易类型attachments/images/a>
+##### <a href="特殊交易类型">6.  特殊交易类型</a>
  ![Alt text](attachments/images/1553930304371.png)
 
-####<a href="轨道交通">（五）轨道交通attachments/images/a>
+####<a href="轨道交通">（五）轨道交通</a>
 
 ![Alt text](attachments/images/1553938039934.png)
 
-##### <a href="2018 - 2021年地铁规划图">1. 2018 - 2021年地铁规划图attachments/images/a>
+##### <a href="2018 - 2021年地铁规划图">1. 2018 - 2021年地铁规划图</a>
 2019年
 * 7号线东延工程（焦化厂站—环球影城）全长16.6公里，拟2019年12月竣工。
 * 16号线（苏州街—宛平）全长26.1公里，拟2019年12月竣工。
@@ -176,10 +177,10 @@
 * CBD线一期（东大桥站—大郊亭站）全长6.5公里，拟2021年12月竣工。
 
 
-#### <a href="买房细节">买房细节 （FAQ）attachments/images/a>
+#### <a href="买房细节">买房细节 （FAQ）</a>
 
-##### <a href="贷款相关">1. 贷款相关attachments/images/a>
-（1）从 201attachments/images/0attachments/images/17 起，公积金认房又认贷，并与缴存年限挂钩，每缴存一年可贷10万元，缴存12年可以贷到最高的120万元。
+##### <a href="贷款相关">1. 贷款相关</a>
+（1）从 2018/09/17 起，公积金认房又认贷，并与缴存年限挂钩，每缴存一年可贷10万元，缴存12年可以贷到最高的120万元。
 （2）首套房利率上浮 10% 是什么意思？
 首先理解基准利率，它是中国人民银行（央行）规定的商业银行及其他金融机构的存、贷款利率基准，是法定利率。比如现在基准利率是 4.9%, 上浮 10% 就是 5.39%
 （3）等额本息和等额本金
@@ -187,27 +188,27 @@
 
 
 
-##### <a href="房子建筑相关">2.  房子建筑相关attachments/images/a>
+##### <a href="房子建筑相关">2.  房子建筑相关</a>
 （1）普通自住房和非普通租住房
 
-![enter image description here](httpsattachments/images//image1.ljcdn.coattachments/images/baikeimattachments/images/test1476955220phpp3T8BV.png)
+![enter image description here](https://image1.ljcdn.com/baikeimg/test1476955220phpp3T8BV.png)
 
 （2）公摊面积
 ![Alt text](attachments/images/1553950074573.png)
 有传言取消公摊面积这个概念，不过对房价影响不大。
 
-（3）选小区，选房的注意点 : httpsattachments/images//www.zhihu.coattachments/images/questioattachments/images/2446407attachments/images/answeattachments/images/232469709
+（3）选小区，选房的注意点 : https://www.zhihu.com/question/24464072/answer/232469709
 
 	小区规划 
-			a、绿化率 b、车位配比（一户一车至少1:0.8的车位配比）。c、人车分流（attachments/images/否），车道宽度，地库出入口是否分开。d、容积率及楼间距。e、小区内配套（体attachments/images/健身设施、餐饮、便利attachments/images/超市、理发店等等）。f、小区内公共区域状况（水泥地attachments/images/石材地attachments/images/地砖地attachments/images/排水系统等等）。g、变电站及手机基站位置（自住可以不迷信，但这些问题会影响到房屋再次出售）。
+			a、绿化率 b、车位配比（一户一车至少1:0.8的车位配比）。c、人车分流（是/否），车道宽度，地库出入口是否分开。d、容积率及楼间距。e、小区内配套（体育/健身设施、餐饮、便利店/超市、理发店等等）。f、小区内公共区域状况（水泥地面/石材地面/地砖地面/排水系统等等）。g、变电站及手机基站位置（自住可以不迷信，但这些问题会影响到房屋再次出售）。
 			
 	建筑结构
-	a、建筑结构：框attachments/images/剪力attachments/images/框attachments/images/砌体（砖混）结构。b、楼层总层数（地attachments/images/地面）。c、每层几梯几户，以及每层每户型（建筑）面积。d、楼梯数及楼梯间入口，是否有避难层（至少要求：6楼以下单楼attachments/images/18层以下单楼梯双电attachments/images/33楼以下双楼梯双电attachments/images/更高楼层则需设避难层）。e、底层是否有商铺（商铺楼层数）。f、每层层高。g、外墙面（外墙attachments/images/瓷attachments/images/石材）。外墙漆的楼，时间长了显脏显旧，对卖二手房出售不利。h、排水：同层排attachments/images/非同层排水。i、供水：市政供attachments/images/二次供水。
+	a、建筑结构：框架/剪力墙/框剪/砌体（砖混）结构。b、楼层总层数（地下/地面）。c、每层几梯几户，以及每层每户型（建筑）面积。d、楼梯数及楼梯间入口，是否有避难层（至少要求：6楼以下单楼梯/18层以下单楼梯双电梯/33楼以下双楼梯双电梯/更高楼层则需设避难层）。e、底层是否有商铺（商铺楼层数）。f、每层层高。g、外墙面（外墙漆/瓷片/石材）。外墙漆的楼，时间长了显脏显旧，对卖二手房出售不利。h、排水：同层排水/非同层排水。i、供水：市政供水/二次供水。
 	
 	格局
 	a、采光（注意南北向窗外是否有高层建筑遮光）。b、通风（是否南北通透，直接通透OR间接通透）。c、厨卫采光。d、主阳台与生活阳台（以及物业是否允许封阳台等）。e、动静分区及动线。f、南向及北向房间数量分别多少。g、承重墙、配重墙位置（影响格局可调整尺度）。h、室内噪音。i、室内及室外冲煞（比如房间、厨房、卫生间门是否有对冲，或室外有尖角冲煞等）。也可以根据业主的八字，测算房屋格局是否匹配（理气派）。
 
-（4）买房投资注意点 : httpsattachments/images//mp.weixin.qq.coattachments/images/attachments/images/MD160tkb3UvVjsliF8DMjQ
+（4）买房投资注意点 : https://mp.weixin.qq.com/s/MD160tkb3UvVjsliF8DMjQ
 	
 	a. 交通
 	
@@ -229,12 +230,12 @@
 	每个区域的中心位置，都是升值最快的，也是最抗跌的，不要买偏远的郊区，涨的慢跌的快。
 
 
-##### <a href="买房政策相关">3.  买房政策相关attachments/images/a>
+##### <a href="买房政策相关">3.  买房政策相关</a>
 （1）什么是满五唯一？
 满五”是指房产证从出证开始计算，时间满五年或超过五年；“唯一”则是指业主在该省份内，登记在国土局系统里得只有这一套房子。通常情况下，房子满足“满五唯一”的条件即可是免房子的个税和增值税。
 
 （2）商贷买房首套房认定原则
-![enter image description here](httpsattachments/images//image1.ljcdn.coattachments/images/neirong-imagattachments/images/neirong1513233975phpqrigok.png)
+![enter image description here](https://image1.ljcdn.com/neirong-image/neirong1513233975phpqrigok.png)
 
 （3）什么是共有产权房？
 	共有产权房是新类型房屋，其不动产权证上的房屋产权性质将为“共有产权住房”，每个共有产权房项目会拿出30%房源分配给“新北京人”。购房人可以按照政策性住房标准（商业贷款最低首付比例30%）申请公积金、商业贷款购买。
@@ -250,14 +251,14 @@
 ![Alt text](attachments/images/1553999733562.png)
 
 
-##### <a href="推荐">4. 推荐attachments/images/a>
+##### <a href="推荐">4. 推荐</a>
 （1）推荐公众号
 
 	*  「京房字」 汇集了房地产专家，政策制定者，研究机构，媒体人。房地产相关的政策走向，这个公众号能第一时间得到解读。
 	*  「樱桃大房子」地产自媒体号，对房子有自己独特的见解。
 	*  「撸房价」一个看房价趋势的公众号，很好用的工具。
 	
-#### <a href="最后">最后attachments/images/a>
+#### <a href="最后">最后</a>
 
 1. 文章发布渠道
 
